@@ -1,0 +1,8 @@
+
+learnings/boto3_rds.py
+learnings/boto3_ec2.py
+learnings/boto3_s3.py
+*.env
+*.pem
+__pycache__/
+*.log
